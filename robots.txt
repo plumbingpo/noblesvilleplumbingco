@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noblesvilleplumbingco.com/sitemap.xml
